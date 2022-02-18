@@ -14,17 +14,17 @@
 # on GitHub Pages it is your github repository's name prefixed with a /
 #baseurl: /text-analysis
 # location of code, the full url to your github repository
-source-code: https://github.com/learn-static/text-analysis
+source-code: https://github.com/Booklover00/muckraker
 
 ##########
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Analyzing Political Text of The 20th Century
+title: Muckrakers and the Exposé
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A multimedia project for HIST 320, a Spring 2022 course at the University of Idaho
+tagline: The rise of the exposé journalist during the Progressive Era in America
 # creator of the digital project, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: collectionbuilder
+author: Tara Mcnabb
 
 # collection
 collections:
