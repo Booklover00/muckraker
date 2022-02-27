@@ -10,8 +10,8 @@ permalink: /essay-01.html
 
 ## Introduction
 
-Here's some sample text, written in Markdown.
-In Markdown, any text with no empty lines between will become a paragraph.
+There were many famous muckrakers that worked to expose corruption.
+Each one wrote many articles and were very brave to take on the corrupt elites.
 
 Leave an empty line between headings and paragraphs.
 
