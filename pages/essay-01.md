@@ -8,6 +8,10 @@ permalink: /essay-01.html
 
 # Muckrakers
 
+
+{% include feature/line-chart.html data="sotu-20th-century" topic="Patriotism and Nationalism" %}
+
+I named this graph patriotism and nationalism, and I thought it was interesting because it shows a steady decline over time.
 ## Introduction
 
 There were many famous muckrakers that worked to expose corruption.
