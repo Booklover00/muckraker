@@ -15,7 +15,7 @@ Each one wrote many articles and were very brave to take on the corrupt elites.
 
 Leave an empty line between headings and paragraphs.
 
-Font can be *Italic* or **Bold**.
+*Journalists* or **Muckrakers**.
 
 Citing your work is important! [^1]
 
