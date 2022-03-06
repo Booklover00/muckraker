@@ -4,7 +4,7 @@ layout: about
 permalink: /essay-01.html
 ---
 
-{% include feature/nav-menu.html sections="Introduction;Conclusion;Notes" %}
+{% include feature/nav-menu.html sections=""Introduction;My First Subheading;Conclusion;Note" %}
 
 # Muckrakers
 
@@ -18,6 +18,8 @@ I named this graph patriotism and nationalism, and I thought it was interesting 
 
 [GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 ## Introduction
+
+### My First Subheading
 
 There were many famous muckrakers that worked to expose corruption.
 Each one wrote many articles and were very brave to take on the corrupt elites.
