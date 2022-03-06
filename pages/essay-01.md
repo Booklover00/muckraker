@@ -12,6 +12,11 @@ permalink: /essay-01.html
 {% include feature/line-chart.html data="sotu-20th-century" topic="Patriotism and Nationalism" %}
 
 I named this graph patriotism and nationalism, and I thought it was interesting because it shows a steady decline over time. [^1]
+
+---
+
+
+[GitHub Help](https://help.github.com/){:target="_blank" rel="noopener"}
 ## Introduction
 
 There were many famous muckrakers that worked to expose corruption.
