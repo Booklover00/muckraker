@@ -1,5 +1,9 @@
 ---
 title: Essay 1
+
+
+{% include feature/image.html filename="sotu-word-cloud.png" alt="word cloud generated from state of the union addresses." %} 
+
 layout: about
 permalink: /essay-01.html
 ---
