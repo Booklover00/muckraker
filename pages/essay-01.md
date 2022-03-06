@@ -11,7 +11,7 @@ permalink: /essay-01.html
 
 {% include feature/line-chart.html data="sotu-20th-century" topic="Patriotism and Nationalism" %}
 
-I named this graph patriotism and nationalism, and I thought it was interesting because it shows a steady decline over time.
+I named this graph patriotism and nationalism, and I thought it was interesting because it shows a steady decline over time. [^1]
 ## Introduction
 
 There were many famous muckrakers that worked to expose corruption.
@@ -27,7 +27,9 @@ Title sections of your essay with headings, by adding a pound sign (`#`) in fron
 
 # Heading One
 
-## Heading Two
+## Notes
+
+[^1]: John D’Agata, ed., *The Making of the American Essay* (Minneapolis: Graywolf Press, 2016), 19–20.
 
 ### Heading Three, etc.
 
