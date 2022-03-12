@@ -5,7 +5,7 @@ permalink: /essay-01.html
 ---
 {% include feature/image.html filename="sotu-word-cloud.png" alt="word cloud generated from state of the union addresses." %} 
 
-{% include feature/nav-menu.html sections=""Introduction;My First Subheading;Conclusion;Note" %}
+{% include feature/nav-menu.html sections="Introduction;My First Subheading;Conclusion;Note" %}
 
 # Muckrakers
 
