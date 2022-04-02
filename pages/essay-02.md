@@ -12,6 +12,12 @@ permalink: /essay-02.html
 
 {% include feature/image.html filename="IdaMTarbell.jpg" alt="Ida Tarbell" %} 
 
+
+<blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
+  <p class="mb-0">We muckraked, not because we hated our world, but because we loved it. We were not hopeless, we were not cynical, we were not bitter.</p>
+  <footer class="blockquote-footer text-right">Ray Stannard Baker, <cite title="Source Title">"<a href="https://www.shmoop.com/muckrakers-reformers/quotes.html" target="_blank" rel="noopener">Quotes</a>"</cite></footer>
+</blockquote>
+
 Although the phrase “muckraker” was meant to be an insult, the men and women who often risked their lives to expose business and government corruption in the Progressive Era were less concerned with the labels society thrust upon them. Originally coined by Theodore Roosevelt in a speech in 1906, muckrakers were narrow-minded people that stood in the way of progress, according to him. But the reality was muckrakers were anything but narrow-minded. They worked tirelessly, often going undercover, to shine a light on the human ramifications of greed and corruption. They forced elite society to acknowledge parts of their great cities they would have preferred to ignore. In this way, muckrakers were the original investigative journalists, and ended up paving the way for future investigative reporters who appeared later on in the twentieth century.
 
 The Gilded Age in America resulted in vast amounts of wealth among a select few, and business was taking on new forms in the shape of corporations. The rapid rise of industrialization fueled this great wealth, but it also formed a huge divide in the American population - the haves and have nots. The business world was akin to the wild west with few regulations and shady deals and liaisons between government and rich industrial titans. There was little concern for the working conditions of factory workers who toiled six days a week in unsafe conditions. Business became a religion, and if you weren’t heeding it, then you were just in the way. Either that, or you weren’t fit to run your own life, as was expressed clearly in Andrew Carnegie’s Gospel of Wealth. 
