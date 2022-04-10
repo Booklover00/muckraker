@@ -8,6 +8,9 @@ permalink: /essay-02.html
 
 # Muckrakers & the Expose
 
+
+{% include feature/line-chart.html data="party-platforms-20th-century-all" topic="International policy" %}
+
 ## The Original Investigative Journalists
 
 {% include feature/image.html filename="IdaMTarbell.jpg" alt="Ida Tarbell" %} 
