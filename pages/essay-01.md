@@ -7,6 +7,10 @@ permalink: /essay-01.html
 
 # Muckrakers & the Expose
 
+
+{% include feature/line-chart.html data="party-platforms-20th-century-all" topic="International policy" %}
+
+
 ## The Original Investigative Journalists
 Although the phrase “muckraker” was meant to be an insult, the men and women who often risked their lives to expose business and government corruption in the Progressive Era were less concerned with the labels society thrust upon them. Originally coined by Theodore Roosevelt in a speech in 1906, muckrakers were narrow-minded people that stood in the way of progress, according to him. But the reality was muckrakers were anything but narrow-minded. They worked tirelessly, often going undercover, to shine a light on the human ramifications of greed and corruption. They forced elite society to acknowledge parts of their great cities they would have preferred to ignore. In this way, muckrakers were the original investigative journalists, and ended up paving the way for future investigative reporters who appeared later on in the twentieth century.
 
