@@ -17,7 +17,7 @@ permalink: /essay-02.html
 
 <blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
   <p class="mb-0">We muckraked, not because we hated our world, but because we loved it. We were not hopeless, we were not cynical, we were not bitter.</p>
-  <footer class="blockquote-footer text-right">Ray Stannard Baker, <cite title="Muckrakers and Reformers">"<a href="https://www.shmoop.com/muckrakers-reformers/quotes.html" target="_blank" rel="noopener">Quotes</a>"</cite></footer>
+  <footer class="blockquote-footer text-right">Ray Stannard Baker, <cite title="Source Title"><a href="https://www.shmoop.com/muckrakers-reformers/quotes.html" target="_blank" rel="noopener">Muckrakers and Reformers</a>"</cite></footer>
 </blockquote>
 
 Although the phrase “muckraker” was meant to be an insult, the men and women who often risked their lives to expose business and government corruption in the Progressive Era were less concerned with the labels society thrust upon them. Originally coined by Theodore Roosevelt in a speech in 1906, muckrakers were narrow-minded people that stood in the way of progress, according to him. But the reality was muckrakers were anything but narrow-minded. They worked tirelessly, often going undercover, to shine a light on the human ramifications of greed and corruption. They forced elite society to acknowledge parts of their great cities they would have preferred to ignore. In this way, muckrakers were the original investigative journalists, and ended up paving the way for future investigative reporters who appeared later on in the twentieth century.
