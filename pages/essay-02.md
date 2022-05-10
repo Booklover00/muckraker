@@ -4,12 +4,11 @@ layout: about
 permalink: /essay-02.html
 ---
 
-{% include feature/image.html filename="sotu-word-cloud.png" alt="word cloud generated from state of the union addresses." %}    
+   
 
 # Muckrakers & the Expose
 
 
-{% include feature/line-chart.html data="party-platforms-20th-century-all" topic="International policy" %}
 
 ## The Original Investigative Journalists
 
