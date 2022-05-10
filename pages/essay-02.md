@@ -12,7 +12,7 @@ permalink: /essay-02.html
 
 ## The Original Investigative Journalists
 
-{% include feature/image.html filename="IdaMTarbell.jpg" alt="Ida Tarbell" %} 
+{% include feature/image.html filename="IdaMTarbell.jpg" alt="muckraker Ida Tarbell" caption="Muckraker Ida Tarbell hard at work" %}  
 
 
 <blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
