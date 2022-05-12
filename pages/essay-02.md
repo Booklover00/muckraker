@@ -122,24 +122,22 @@ Were it not for these brave men and women, many of America’s darkest secrets m
 [^1]: Gilmore & Sugrue, *These United States* (New York: W.W. Norton, 2015), 66.
 
 
-[^2]: Simkin, John. *Muckraking Journalism* Spartacus Educational,
-https://spartacus-educational.com/Jmuckraking.htm
+[^2]: Simkin, John. *Muckraking Journalism* Spartacus Educational, <https://spartacus-educational.com/Jmuckraking.htm>
 
 
-[^3]: Kirkhorn, Michael. *The Cold War Generation of Patriotic Journalists* Nieman Reports, https://niemanreports.org/articles/the-cold-war-generation-of-patriotic-journalists/
+[^3]: Kirkhorn, Michael. *The Cold War Generation of Patriotic Journalists* Nieman Reports, <https://niemanreports.org/articles/the-cold-war-generation-of-patriotic-journalists/>
 
 
-[^4]: Aucoin, John. *Encyclopedia of International Media & Communications* Science Direct, 
-https://www.sciencedirect.com/topics/social-sciences/investigative-journalism
+[^4]: Aucoin, John. *Encyclopedia of International Media & Communications* Science Direct, <https://www.sciencedirect.com/topics/social-sciences/investigative-journalism>
 
 
-[^5]: *Watergate Scandal* Dan Rather, American Journalist, https://danratherjournalist.org/political-analyst/watergate-scandal
+[^5]: *Watergate Scandal* Dan Rather, American Journalist, <https://danratherjournalist.org/political-analyst/watergate-scandal>
 
 
-[^6]: Marrero, Carmelo. *Contras and Drugs, Three Decades Later* Inter Press Service, https://www.ipsnews.net/2014/10/opinion-contras-and-drugs-three-decades-later/
+[^6]: Marrero, Carmelo. *Contras and Drugs, Three Decades Later* Inter Press Service, <https://www.ipsnews.net/2014/10/opinion-contras-and-drugs-three-decades-later/>
 
 
-[^7]: *Florence George Graves* The Schuster Institute for Investigative Journalism, https://www.brandeis.edu/investigate/about/staff/graves.html
+[^7]: *Florence George Graves* The Schuster Institute for Investigative Journalism, <https://www.brandeis.edu/investigate/about/staff/graves.html>
 
 
 
