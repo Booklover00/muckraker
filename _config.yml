@@ -20,11 +20,11 @@ source-code: https://github.com/Booklover00/muckraker
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: From Muckrakers to Investigative Journalists: The Evolution of Radical Reporting
+title: "From Muckrakers to Investigative Journalists: The Evolution of Radical Reporting"
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A historical overview of investigative journalism in twentieth century America
+tagline: "A historical overview of investigative journalism in twentieth century America"
 # creator of the digital project, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: Tara Mcnabb
+author: "Tara Mcnabb"
 
 # collection
 collections:
