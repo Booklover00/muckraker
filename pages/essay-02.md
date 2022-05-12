@@ -101,7 +101,7 @@ It was seasoned investigative journalist Brian Barger who, along with reporter R
 
 ## Florence Graves & Capitol Hill
 
-Investigative journalists continued to bravely take on high-profile politicians well into the 1990s. Florence Graves, American journalist and founder of the magazine Common Cause, started her own investigation into sexual misconduct allegations on Capitol Hill in 1992. Her findings all led to Oregon senator Bob Packwood, who had been accused of sexual misconduct by 10 women. 
+Investigative journalists continued to bravely take on high-profile politicians well into the 1990s. Florence Graves, American journalist and founder of the magazine Common Cause, started her own investigation into sexual misconduct allegations on Capitol Hill in 1992. Her findings all led to Oregon senator Bob Packwood, who had been accused of sexual misconduct by 10 women. [^7] 
 
 Her investigation was published by the Washington Post and resulted in the senator’s resignation in 1995. Her work also instigated the creation of two landmark reform policies: the Senate Ethics Committee and the Congressional Accountability Act. The story received widespread news coverage on major platforms, including 60 Minutes. Grave’s investigative work started discussions about sexual assault, especially in the workplace. 
 
@@ -137,6 +137,9 @@ https://www.sciencedirect.com/topics/social-sciences/investigative-journalism
 
 
 [^6]: Marrero, Carmelo. *Contras and Drugs, Three Decades Later* Inter Press Service, https://www.ipsnews.net/2014/10/opinion-contras-and-drugs-three-decades-later/
+
+
+[^7]: *Florence George Graves* The Schuster Institute for Investigative Journalism, https://www.brandeis.edu/investigate/about/staff/graves.html
 
 
 
