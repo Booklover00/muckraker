@@ -62,6 +62,14 @@ After WW2, tensions between the Soviet Union and the United States reached a tip
 {% include feature/image.html filename="AP-540503043-Joseph-McCarthy-1954.jpg" alt="McCarthyism" caption=""McCarthyism"" %} 
 
 
+## Muckrakers Make Their Comeback in the 1970s
+
+Intense social and political unrest created a climate that made it possible for radical reporting to take center stage once again. With the same spirit of rebellion and scrutiny that characterized the muckrakers of the Progressive Era, investigative journalists of the 1970s worked diligently to expose both corporate and government corruption. A renewed sense of urgency in investigative reporting took hold, with many prominent papers creating their own distinct investigation units, such as the Boston Globe and Newsday. Television continued to play a role in information consumption, and the wildly popular TV show 60 Minutes from CBS is an example of the renewed desire for investigative news. While many of the early muckrakers toiled in obscurity to expose corruption, the investigative journalists of the 1970s took on something of a celebrity status. The 1970s was an era when investigative journalism transformed into a respected form of reporting and was considered essential to maintaining American democracy.
+
+
+## Nixon & the Watergate Scandal
+
+Perhaps one of the most defining moments of investigative journalism was the Watergate scandal in 1972. President Nixon was attempting to run for reelection, and his methods included a team of agents known as CREEP that used illegal tactics to discredit the Democratic party. When a team of five men were caught attempting to burglarize an office of the Democratic National Committee, what became known as the Watergate scandal quickly turned into a race among journalists to uncover the truth. Journalists Carl Bernstein and Bob Woodward from the Washington Post eventually exposed Nixon’s connection to the Watergate burglary thanks to the many information leaks they were given by an anonymous source known as “Deep Throat.” Their reporting uncovered a vast web of political corruption and sabotage orchestrated by the Nixon administration, which resulted in Nixon’s resignation as president in 1974.
 
 ## Notes
 [^1]: Gilmore & Sugrue, *These United States* (New York: W.W. Norton, 2015), 66.
