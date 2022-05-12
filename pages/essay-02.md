@@ -95,6 +95,16 @@ Investigative journalists continued to bravely take on high-profile politicians 
 
 {% include feature/image.html filename="packwood.jpeg" alt="newspaper" %} 
 
+## From Muckrakers to Investigative Journalists
+
+From the early days of the Industrial Revolution and the Progressive Era to the modern social and political unrest of the 1970s and beyond, investigative reporting has always played a role in American democracy. Muckrakers like Ida Tarbell, Upton Sinclair, and Lincoln Steffens were the early pioneers who took it upon themselves to expose the dark underbelly of American business and politics in the 1900s. This unceasing search for the truth paved the way for future investigative journalists like Carl Bernstein, Bob Woodward, Florence Graves, and Brian Barger. 
+
+Radical reporting took on a new form in the second half of the twentieth century thanks to technological advances like television and radio. These new forms of media consumption made it easier for hard-hitting stories to reach a wider audience, but also resulted in dubious relationships between media conglomerates and government agencies. 
+
+The twentieth century in America witnessed dramatic political upheavals and economic hardships, all of which were carefully documented by muckrakers and investigative journalists. Once a job that was sneered at by people like Roosevelt, muckraking eventually transformed into a serious and respected profession in the 1970s, when the phrase “investigative reporter” carried an air of distinction, even celebrity. 
+
+Were it not for these brave men and women, many of America’s darkest secrets might never have come to light. The spirit of muckraking has always been about journeying into the unknown for the benefit of ordinary people. It’s when we stop investigating the unknown that the future of American democracy is threatened. Muckraker Lincoln Steffens summed it up perfectly when he said: “It is our knowledge – the things we are sure of – that makes the world go wrong and keeps us from seeing and learning.” 
+
 
 ## Notes
 [^1]: Gilmore & Sugrue, *These United States* (New York: W.W. Norton, 2015), 66.
