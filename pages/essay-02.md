@@ -93,6 +93,8 @@ The 1980s also saw its fair share of political scandal unveiled through investig
 
 Investigative journalists continued to bravely take on high-profile politicians well into the 1990s. Florence Graves, American journalist and founder of the magazine Common Cause, started her own investigation into sexual misconduct allegations on Capitol Hill in 1992. Her findings all led to Oregon senator Bob Packwood, who had been accused of sexual misconduct by 10 women. Her investigation was published by the Washington Post and resulted in the senator’s resignation in 1995. Her work also instigated the creation of two landmark reform policies: the Senate Ethics Committee and the Congressional Accountability Act. The story received widespread news coverage on major platforms, including 60 Minutes. Grave’s investigative work started discussions about sexual assault, especially in the workplace. 
 
+{% include feature/image.html filename="packwood.jpeg" alt="newspaper" %} 
+
 
 ## Notes
 [^1]: Gilmore & Sugrue, *These United States* (New York: W.W. Norton, 2015), 66.
