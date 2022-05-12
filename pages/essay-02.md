@@ -78,7 +78,7 @@ Bernhard touches on this point when she says: “The Cold War made propaganda an
 
 ## Muckrakers Make Their Comeback in the 1970s
 
-Intense social and political unrest created a climate that made it possible for radical reporting to take center stage once again. With the same spirit of rebellion and scrutiny that characterized the muckrakers of the Progressive Era, investigative journalists of the 1970s worked diligently to expose both corporate and government corruption. A renewed sense of urgency in investigative reporting took hold, with many prominent papers creating their own distinct investigation units, such as the Boston Globe and Newsday. 
+Intense social and political unrest created a climate that made it possible for radical reporting to take center stage once again. With the same spirit of rebellion and scrutiny that characterized the muckrakers of the Progressive Era, investigative journalists of the 1970s worked diligently to expose both corporate and government corruption. A renewed sense of urgency in investigative reporting took hold, with many prominent papers creating their own distinct investigation units, such as the *Boston Globe* and *Newsday*. [^4] 
 
 Television continued to play a role in information consumption, and the wildly popular TV show 60 Minutes from CBS is an example of the renewed desire for investigative news. While many of the early muckrakers toiled in obscurity to expose corruption, the investigative journalists of the 1970s took on something of a celebrity status. The 1970s was an era when investigative journalism transformed into a respected form of reporting and was considered essential to maintaining American democracy.
 
@@ -127,6 +127,10 @@ https://spartacus-educational.com/Jmuckraking.htm
 
 
 [^3]: Kirkhorn, Michael. *The Cold War Generation of Patriotic Journalists* Nieman Reports, https://niemanreports.org/articles/the-cold-war-generation-of-patriotic-journalists/
+
+
+[^4]: Aucoin, John. *Encyclopedia of International Media & Communications* Science Direct, 
+https://www.sciencedirect.com/topics/social-sciences/investigative-journalism
 
 
 
