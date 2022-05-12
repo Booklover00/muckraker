@@ -17,7 +17,7 @@ permalink: /essay-02.html
 
 <blockquote class="blockquote pt-3 pb-5" style="font-size: 1.75rem; margin-left: auto; margin-right: auto; max-width: 650px;">
   <p class="mb-0">We muckraked, not because we hated our world, but because we loved it. We were not hopeless, we were not cynical, we were not bitter.</p>
-  <footer class="blockquote-footer text-right">Ray Stannard Baker, <cite title="Source Title"><a href="https://www.shmoop.com/muckrakers-reformers/quotes.html" target="_blank" rel="noopener">Muckrakers and Reformers</a>"</cite></footer>
+  <footer class="blockquote-footer text-right">Ray Stannard Baker, <cite title="Source Title"><a href="https://www.shmoop.com/muckrakers-reformers/quotes.html" target="_blank" rel="noopener">Muckrakers and Reformers</a></cite></footer>
 </blockquote>
 
 ## The Origins of Muckraking
