@@ -61,7 +61,7 @@ Despite the many political and economic changes that resulted from muckrakers’
 
 The gradual decline of muckraking coincided with the First Red Scare, when a debilitating and oppressive political climate took hold of America in 1919. Fear of anarchy and revolution made any appearance of dissent a threat to national government. The hysteria over a Communist government takeover resulted in thousands of arrests, and radical reporting faded into silence. The muckrakers’ dwindling status would continue as future conflicts gripped the nation. WW2 resulted in a patriotic fervor that left no room for disunity, and the Cold War saw the merging of media outlets and government that created a formidable web of propaganda.
 
-{% include feature/image.html filename="The_Evening_World_November_8_1919.jpg" alt="Red Scare" %} 
+{% include feature/image.html filename="The_Evening_World_November_8_1919.jpg" alt="Red Scare" caption="Red Scare hysteria in a 1919 newspaper" %} 
 
 ## The Cold War & Media Loyalty
 
@@ -89,7 +89,7 @@ Perhaps one of the most defining moments of investigative journalism was the Wat
 
 Journalists Carl Bernstein and Bob Woodward from the *Washington Post* eventually exposed Nixon’s connection to the Watergate burglary thanks to the many information leaks they were given by an anonymous source known as “Deep Throat.” Their reporting uncovered a vast web of political corruption and sabotage orchestrated by the Nixon administration, which resulted in Nixon’s resignation as president in 1974. [^5]
 
-{% include feature/image.html filename="content_image_1_4.jpg" alt="wiretapping" caption="wire tappers disguised as chapsticks used by the Nixon administration" %} 
+{% include feature/image.html filename="content_image_1_4.jpg" alt="wiretapping" caption="Wire tappers disguised as chapsticks used by the Nixon administration" %} 
 
 ## Brian Barger & The Iran-Contra Scandal 
 
@@ -97,7 +97,7 @@ The 1980s also saw its fair share of political scandal unveiled through investig
 
 It was seasoned investigative journalist Brian Barger who, along with reporter Robert Parry, played a key role in exposing the link between contra groups and the US government. Their published article contained witness testimony from both the contra armies and the Reagan administration that showed a clear connection to drug trafficking and illegal funding. Brian Barger had already made a name for himself as a reporter that covered the Columbian drug cartels and had an impressive career at the *Washington Post*.
 
-{% include feature/pdf.html filename="d-all-19.pdf" caption="a document detailing CIA activities in Nicaragua" %} 
+{% include feature/pdf.html filename="d-all-19.pdf" caption="A document detailing CIA activities in Nicaragua" %} 
 
 ## Florence Graves & Capitol Hill
 
@@ -105,7 +105,7 @@ Investigative journalists continued to bravely take on high-profile politicians 
 
 Her investigation was published by the *Washington Post* and resulted in the senator’s resignation in 1995. Her work also instigated the creation of two landmark reform policies: the Senate Ethics Committee and the Congressional Accountability Act. The story received widespread news coverage on major platforms, including *60 Minutes*. Grave’s investigative work started discussions about sexual assault, especially in the workplace. 
 
-{% include feature/image.html filename="packwood.jpeg" alt="newspaper" %} 
+{% include feature/image.html filename="packwood.jpeg" alt="newspaper" caption="The Packwood story published in the Washington Post" %} 
 
 ## From Muckrakers to Investigative Journalists
 
