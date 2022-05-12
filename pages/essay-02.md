@@ -57,7 +57,7 @@ Through their writing and art, these men and women were indeed raking muck that 
 
 ## Muckrakers Begin to Lose Their Appeal
 
-Despite the many political and economic changes that resulted from muckrakers’ efforts including child labor laws, prison reform, and land conservation laws, the end of WWI marked the steady decline of muckraking as a social movement. A combination of changing public sentiment and a new political climate made muckrakers suddenly seem tiresome. People were tired of always hearing about the dark side of America, especially after living through WWI. Muckrakers themselves noticed a change in people’s willingness to listen and found themselves with limited options for publishing their work. An editor from Everybody’s magazine, once a popular outlet for muckrakers’ reporting, summed it up when he said: “The subject was not exhausted but the public interest therein seemed to be at an end, and inevitably the editors turned to other sources of copy to fill their pages.” 
+Despite the many political and economic changes that resulted from muckrakers’ efforts including child labor laws, prison reform, and land conservation laws, the end of WWI marked the steady decline of muckraking as a social movement. A combination of changing public sentiment and a new political climate made muckrakers suddenly seem tiresome. People were tired of always hearing about the dark side of America, especially after living through WWI. Muckrakers themselves noticed a change in people’s willingness to listen and found themselves with limited options for publishing their work. An editor from Everybody’s magazine, once a popular outlet for muckrakers’ reporting, summed it up when he said: “The subject was not exhausted but the public interest therein seemed to be at an end, and inevitably the editors turned to other sources of copy to fill their pages.” [^1] 
 
 The gradual decline of muckraking coincided with the First Red Scare, when a debilitating and oppressive political climate took hold of America in 1919. Fear of anarchy and revolution made any appearance of dissent a threat to national government. The hysteria over a Communist government takeover resulted in thousands of arrests, and radical reporting faded into silence. The muckrakers’ dwindling status would continue as future conflicts gripped the nation. WW2 resulted in a patriotic fervor that left no room for disunity, and the Cold War saw the merging of media outlets and government that created a formidable web of propaganda.
 
@@ -120,3 +120,6 @@ Were it not for these brave men and women, many of America’s darkest secrets m
 
 ## Notes
 [^1]: Gilmore & Sugrue, *These United States* (New York: W.W. Norton, 2015), 66.
+[^1]: Simkin, John. *Muckraking Journalism* Spartacus Educational,
+https://spartacus-educational.com/Jmuckraking.htm
+
