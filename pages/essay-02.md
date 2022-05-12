@@ -87,7 +87,7 @@ Television continued to play a role in information consumption, and the wildly p
 
 Perhaps one of the most defining moments of investigative journalism was the Watergate scandal in 1972. President Nixon was attempting to run for reelection, and his methods included a team of agents known as CREEP that used illegal tactics to discredit the Democratic party. When a team of five men were caught attempting to burglarize an office of the Democratic National Committee, what became known as the Watergate scandal quickly turned into a race among journalists to uncover the truth. 
 
-Journalists Carl Bernstein and Bob Woodward from the Washington Post eventually exposed Nixon’s connection to the Watergate burglary thanks to the many information leaks they were given by an anonymous source known as “Deep Throat.” Their reporting uncovered a vast web of political corruption and sabotage orchestrated by the Nixon administration, which resulted in Nixon’s resignation as president in 1974.
+Journalists Carl Bernstein and Bob Woodward from the Washington Post eventually exposed Nixon’s connection to the Watergate burglary thanks to the many information leaks they were given by an anonymous source known as “Deep Throat.” Their reporting uncovered a vast web of political corruption and sabotage orchestrated by the Nixon administration, which resulted in Nixon’s resignation as president in 1974. [^5]
 
 {% include feature/image.html filename="content_image_1_4.jpg" alt="wiretapping" caption="wire tappers disguised as chapsticks used by the Nixon administration" %} 
 
@@ -133,4 +133,4 @@ https://spartacus-educational.com/Jmuckraking.htm
 https://www.sciencedirect.com/topics/social-sciences/investigative-journalism
 
 
-
+[^5]: *Watergate Scandal* Dan Rather, American Journalist, https://danratherjournalist.org/political-analyst/watergate-scandal
