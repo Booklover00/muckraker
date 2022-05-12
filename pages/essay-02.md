@@ -69,7 +69,7 @@ After WW2, tensions between the Soviet Union and the United States reached a tip
 
 Once the territory of muckrakers like Tarbell and Sinclair, the traditional newspaper, magazine, and pamphlet was slowly replaced by TVs. This new form of information consumption forever altered the relationship between the public and media, and was the key instrument in spreading new propaganda campaigns. The Cold War created a form of patriotism verging on hysteria in America, and many broadcast companies and media outlets sided with the government in order to survive. Cooperation with government and ideas of American nationalism took hold; there was no place for the muckraking tendency of stirring up trouble. Many journalists now worked for large news corporations, and all were united in the common threat against Communism. 
 
-In her book, U.S. Television News and Cold War Propaganda, Nancy Bernhard articulated this new relationship between the media and government agencies: “In the mid-twentieth century…the political economy of the mass media was intimately tied up with the articulation of Cold War policies, and objectivity became grounded in fervent anticommunism.” Whereas before independent journalism was used as a means of criticism against American politics, the cooperation between giant media companies and government agencies created a cohesive factory of anti-Communist ideas that served to facilitate American foreign policy objectives. 
+In her book, U.S. Television News and Cold War Propaganda, Nancy Bernhard articulated this new relationship between the media and government agencies: “In the mid-twentieth century…the political economy of the mass media was intimately tied up with the articulation of Cold War policies, and objectivity became grounded in fervent anticommunism.” [^3] Whereas before independent journalism was used as a means of criticism against American politics, the cooperation between giant media companies and government agencies created a cohesive factory of anti-Communist ideas that served to facilitate American foreign policy objectives. 
 
 Bernhard touches on this point when she says: “The Cold War made propaganda an integral part of American foreign policy and took as its casualty confidence that the United States would triumph in the marketplace of ideas.” The power of propaganda would continue to be used as a means of manipulation throughout the 1950s and 1960s. Media and journalism would continue to feel the pressure of cooperation with government, but it wasn’t until the turbulent 1970s that radical reporting took on similar characteristics that defined the early muckrakers. 
 
@@ -124,4 +124,9 @@ Were it not for these brave men and women, many of America’s darkest secrets m
 
 [^2]: Simkin, John. *Muckraking Journalism* Spartacus Educational,
 https://spartacus-educational.com/Jmuckraking.htm
+
+
+[^3]: Kirkhorn, Michael. *The Cold War Generation of Patriotic Journalists* Nieman Reports, https://niemanreports.org/articles/the-cold-war-generation-of-patriotic-journalists/
+
+
 
