@@ -93,7 +93,7 @@ Journalists Carl Bernstein and Bob Woodward from the Washington Post eventually 
 
 ## Brian Barger & The Iran-Contra Scandal 
 
-The 1980s also saw its fair share of political scandal unveiled through investigative reporting. One of these was the Iran-Contra scandal that took place during the presidency of Ronald Reagan. In 1981, the CIA illegally formed and financially aided an army to overthrow the government of Nicaragua. Known as the “contras,” this CIA-funded army provoked a war that devastated Nicaragua economic stability. Even worse, it was later discovered that the Reagan administration had secretly funded the contras through illegal channels, and links were found to drug cartels in South America. 
+The 1980s also saw its fair share of political scandal unveiled through investigative reporting. One of these was the Iran-Contra scandal that took place during the presidency of Ronald Reagan. In 1981, the CIA illegally formed and financially aided an army to overthrow the government of Nicaragua. Known as the “contras,” this CIA-funded army provoked a war that devastated Nicaragua economic stability. Even worse, it was later discovered that the Reagan administration had secretly funded the contras through illegal channels, and links were found to drug cartels in South America. [^6] 
 
 It was seasoned investigative journalist Brian Barger who, along with reporter Robert Parry, played a key role in exposing the link between contra groups and the US government. Their published article contained witness testimony from both the contra armies and the Reagan administration that showed a clear connection to drug trafficking and illegal funding. Brian Barger had already made a name for himself as a reporter that covered the Columbian drug cartels and had an impressive career at the Washington Post.
 
@@ -134,3 +134,9 @@ https://www.sciencedirect.com/topics/social-sciences/investigative-journalism
 
 
 [^5]: *Watergate Scandal* Dan Rather, American Journalist, https://danratherjournalist.org/political-analyst/watergate-scandal
+
+
+[^6]: Marrero, Carmelo. *Contras and Drugs, Three Decades Later* Inter Press Service, https://www.ipsnews.net/2014/10/opinion-contras-and-drugs-three-decades-later/
+
+
+
