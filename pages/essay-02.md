@@ -87,7 +87,11 @@ Journalists Carl Bernstein and Bob Woodward from the Washington Post eventually 
 
 The 1980s also saw its fair share of political scandal unveiled through investigative reporting. One of these was the Iran-Contra scandal that took place during the presidency of Ronald Reagan. In 1981, the CIA illegally formed and financially aided an army to overthrow the government of Nicaragua. Known as the “contras,” this CIA-funded army provoked a war that devastated Nicaragua economic stability. Even worse, it was later discovered that the Reagan administration had secretly funded the contras through illegal channels, and links were found to drug cartels in South America. It was seasoned investigative journalist Brian Barger who, along with reporter Robert Parry, played a key role in exposing the link between contra groups and the US government. Their published article contained witness testimony from both the contra armies and the Reagan administration that showed a clear connection to drug trafficking and illegal funding. Brian Barger had already made a name for himself as a reporter that covered the Columbian drug cartels and had an impressive career at the Washington Post.
 
+{% include feature/pdf.html filename="d-all-19.pdf" caption="a document detailing CIA activities in Nicaragua" %} 
 
+## Florence Graves & Capitol Hill
+
+Investigative journalists continued to bravely take on high-profile politicians well into the 1990s. Florence Graves, American journalist and founder of the magazine Common Cause, started her own investigation into sexual misconduct allegations on Capitol Hill in 1992. Her findings all led to Oregon senator Bob Packwood, who had been accused of sexual misconduct by 10 women. Her investigation was published by the Washington Post and resulted in the senator’s resignation in 1995. Her work also instigated the creation of two landmark reform policies: the Senate Ethics Committee and the Congressional Accountability Act. The story received widespread news coverage on major platforms, including 60 Minutes. Grave’s investigative work started discussions about sexual assault, especially in the workplace. 
 
 
 ## Notes
